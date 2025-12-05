@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "url": "https://www.playsolana.com/playdex/dashboard",
+    "title": "Play Solana",
+    "lang": "en",
+    "timestamp": "2025-10-15T16:49:21.800Z",
+    "viewport": {
+      "width": 943,
+      "height": 861,
+      "devicePixelRatio": 2
+    }
+  },
+  "outline": [
+    {
+      "level": 2,
+      "text": "Inventory 1",
+      "selector": "div.flex.h-full > div.space-y-2 > div.relative.flex:nth-of-type(2) > div.mb-4.flex:nth-of-type(1) > h2.mb-2.font-retro"
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "header",
+      "selector": "div.hidden.sm\\:flex:nth-of-type(1) > div.h-\\[90vh\\].max-h-\\[1500px\\]:nth-of-type(2) > div.relative.h-full > div.absolute.inset-0 > header.flex.items-center",
+      "visible": true
+    },
+    {
+      "tag": "nav",
+      "selector": "div.h-\\[90vh\\].max-h-\\[1500px\\]:nth-of-type(2) > div.relative.h-full > div.absolute.inset-0 > header.flex.items-center > nav.hidden.items-center",
+      "visible": false
+    }
+  ],
+  "actions": [
+    {
+      "tag": "a",
+      "text": ">Dashboard",
+      "disabled": false,
+      "selector": "div.relative.h-full > div.absolute.inset-0 > header.flex.items-center > nav.hidden.items-center > a.transition-colors.duration-200:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "Quests",
+      "disabled": false,
+      "selector": "div.relative.h-full > div.absolute.inset-0 > header.flex.items-center > nav.hidden.items-center > a.transition-colors.duration-200:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "Leaderboard",
+      "disabled": false,
+      "selector": "div.relative.h-full > div.absolute.inset-0 > header.flex.items-center > nav.hidden.items-center > a.transition-colors.duration-200:nth-of-type(3)",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "Orders",
+      "disabled": false,
+      "selector": "div.relative.h-full > div.absolute.inset-0 > header.flex.items-center > nav.hidden.items-center > a.transition-colors.duration-200:nth-of-type(4)",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "<",
+      "disabled": false,
+      "selector": "div.absolute.inset-0 > header.flex.items-center > div.relative.flex:nth-of-type(2) > div.absolute.left-1\\/2:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "tag": "a",
+      "text": ">",
+      "disabled": false,
+      "selector": "div.absolute.inset-0 > header.flex.items-center > div.relative.flex:nth-of-type(2) > div.absolute.left-1\\/2:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "AqAt...kW2i",
+      "disabled": false,
+      "selector": "div.relative.h-full > div.absolute.inset-0 > header.flex.items-center > div.relative:nth-of-type(3) > button.gradient-border-button",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "ariaLabel": "Portals Holder",
+      "disabled": false,
+      "selector": "button[aria-label=\"Portals Holder\"]",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "title": "Hide Socials & Wallets",
+      "disabled": false,
+      "selector": "button[title=\"Hide Socials & Wallets\"]",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "ariaLabel": "Portals Holder",
+      "disabled": false,
+      "selector": "button[aria-label=\"Portals Holder\"]",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "title": "Hide Socials & Wallets",
+      "disabled": false,
+      "selector": "button[title=\"Hide Socials & Wallets\"]",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "XP History",
+      "disabled": false,
+      "selector": "div.flex.flex-col:nth-of-type(2) > div.rounded-xl.bg-\\[\\#171426\\]:nth-of-type(1) > div.flex.flex-col > div.flex.items-center:nth-of-type(1) > button.group.flex",
+      "visible": true
+    },
+    {
+      "tag": "a",
+      "text": "View Leaderboard",
+      "disabled": false,
+      "selector": "div.flex.flex-col:nth-of-type(2) > div.rounded-xl.bg-\\[\\#171426\\]:nth-of-type(2) > div.flex.flex-col > div.flex.items-center > a.rounded-md.bg-\\[\\#1f1b33\\]",
+      "visible": true
+    },
+    {
+      "tag": "a",
+      "text": "Buy Now",
+      "disabled": false,
+      "selector": "div.flex.h-full > div.space-y-2 > div.flex.w-full:nth-of-type(1) > div.flex.h-full:nth-of-type(3) > a.group.items-center",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "title": "Copy to clipboard",
+      "disabled": false,
+      "selector": "button[title=\"Copy to clipboard\"]",
+      "visible": true
+    },
+    {
+      "tag": "a",
+      "text": "View Collection",
+      "disabled": false,
+      "selector": "div.space-y-2 > div.relative.flex:nth-of-type(2) > div.mb-4.flex:nth-of-type(1) > div.flex.w-full > a.flex.items-center",
+      "visible": true
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "disabled": false,
+      "selector": "div.relative.flex:nth-of-type(2) > div.mb-4.flex:nth-of-type(1) > div.flex.w-full > div.flex.flex-wrap > a.flex.items-center:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "disabled": false,
+      "selector": "div.relative.flex:nth-of-type(2) > div.mb-4.flex:nth-of-type(1) > div.flex.w-full > div.flex.flex-wrap > a.flex.items-center:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.flex.h-full > div.space-y-2 > div.relative.flex:nth-of-type(2) > div.relative.mb-4:nth-of-type(2) > button.mr-4.h-0:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "CHOOSE PLAYER",
+      "disabled": false,
+      "selector": "div.relative.flex > div.flex.h-\\[70\\%\\]:nth-of-type(3) > div.flex.h-full:nth-of-type(2) > div.my-2.flex:nth-of-type(2) > button.flex.w-full",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.flex.h-full > div.space-y-2 > div.relative.flex:nth-of-type(2) > div.relative.mb-4:nth-of-type(2) > button.ml-4.h-0:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "CHOOSE PLAYER",
+      "disabled": false,
+      "selector": "div.relative.flex > div.flex.h-\\[70\\%\\]:nth-of-type(3) > div.flex.h-full:nth-of-type(2) > div.my-2.flex:nth-of-type(2) > button.flex.w-full",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "ariaLabel": "Portals Holder",
+      "disabled": false,
+      "selector": "button[aria-label=\"Portals Holder\"]",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "title": "Hide Socials & Wallets",
+      "disabled": false,
+      "selector": "button[title=\"Hide Socials & Wallets\"]",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "ariaLabel": "Portals Holder",
+      "disabled": false,
+      "selector": "button[aria-label=\"Portals Holder\"]",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "title": "Hide Socials & Wallets",
+      "disabled": false,
+      "selector": "button[title=\"Hide Socials & Wallets\"]",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "XP History",
+      "disabled": false,
+      "selector": "div.flex.flex-col:nth-of-type(2) > div.rounded-xl.bg-\\[\\#171426\\]:nth-of-type(1) > div.flex.flex-col > div.flex.items-center:nth-of-type(1) > button.group.flex",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "View Leaderboard",
+      "disabled": false,
+      "selector": "div.flex.flex-col:nth-of-type(2) > div.rounded-xl.bg-\\[\\#171426\\]:nth-of-type(2) > div.flex.flex-col > div.flex.items-center > a.rounded-md.bg-\\[\\#1f1b33\\]",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "Buy Now",
+      "disabled": false,
+      "selector": "div.flex.h-full > div.space-y-2 > div.flex.w-full:nth-of-type(1) > div.flex.h-full:nth-of-type(3) > a.group.items-center",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "title": "Copy to clipboard",
+      "disabled": false,
+      "selector": "button[title=\"Copy to clipboard\"]",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "View Collection",
+      "disabled": false,
+      "selector": "div.space-y-2 > div.relative.flex:nth-of-type(2) > div.mb-4.flex:nth-of-type(1) > div.flex.w-full > a.flex.items-center",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "disabled": false,
+      "selector": "div.relative.flex:nth-of-type(2) > div.mb-4.flex:nth-of-type(1) > div.flex.w-full > div.flex.flex-wrap > a.flex.items-center:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "disabled": false,
+      "selector": "div.relative.flex:nth-of-type(2) > div.mb-4.flex:nth-of-type(1) > div.flex.w-full > div.flex.flex-wrap > a.flex.items-center:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.flex.h-full > div.space-y-2 > div.relative.flex:nth-of-type(2) > div.relative.mb-4:nth-of-type(2) > button.mr-4.h-0:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "CHOOSE PLAYER",
+      "disabled": false,
+      "selector": "div.relative.flex > div.flex.h-\\[70\\%\\]:nth-of-type(3) > div.flex.h-full:nth-of-type(2) > div.my-2.flex:nth-of-type(2) > button.flex.w-full",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.flex.h-full > div.space-y-2 > div.relative.flex:nth-of-type(2) > div.relative.mb-4:nth-of-type(2) > button.ml-4.h-0:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "CHOOSE PLAYER",
+      "disabled": false,
+      "selector": "div.relative.flex > div.flex.h-\\[70\\%\\]:nth-of-type(3) > div.flex.h-full:nth-of-type(2) > div.my-2.flex:nth-of-type(2) > button.flex.w-full",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.mt-4.flex:nth-of-type(2) > div.flex.flex-col:nth-of-type(2) > div.flex.h-10 > div.flex.flex-1 > button.flex.flex-1",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "MENUPreorder",
+      "disabled": false,
+      "selector": "div.flex.h-\\[95dvh\\]:nth-of-type(2) > div.max-w-screen.relative > div.mt-4.flex:nth-of-type(2) > div.flex.flex-col:nth-of-type(2) > button.flex.flex-col",
+      "visible": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "disabled": false,
+      "selector": "div.flex.flex-col > div.w-\\[80px\\].rounded-full > div.rounded-full.p-1 > div.rounded-full.p-1 > a.flex.h-\\[20px\\]",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.absolute.top-0:nth-of-type(1) > div.flex.flex-col > div.flex.h-9 > div.flex.h-full > button.flex.h-full",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.absolute.left-0:nth-of-type(2) > div.flex.flex-col > div.flex.h-9 > div.flex.h-full > button.flex.h-full",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.absolute.right-0:nth-of-type(3) > div.flex.flex-col > div.flex.h-9 > div.flex.h-full > button.flex.h-full",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "disabled": false,
+      "selector": "div.absolute.bottom-0:nth-of-type(4) > div.flex.flex-col > div.flex.h-9 > div.flex.h-full > button.flex.h-full",
+      "visible": false
+    },
+    {
+      "tag": "button",
+      "text": "✕",
+      "disabled": false,
+      "selector": "#crx-helper-close",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "导出分析上下文（JSON + HTML）",
+      "disabled": false,
+      "selector": "#crx-helper-export-analysis",
+      "visible": true
+    },
+    {
+      "tag": "button",
+      "text": "导出 HTML 快照",
+      "disabled": false,
+      "selector": "#crx-helper-capture-html",
+      "visible": true
+    }
+  ],
+  "paginationHints": {
+    "hasNext": true,
+    "nextCandidates": [
+      {
+        "tag": "a",
+        "text": ">",
+        "disabled": false,
+        "selector": "div.absolute.inset-0 > header.flex.items-center > div.relative.flex:nth-of-type(2) > div.absolute.left-1\\/2:nth-of-type(2) > a:nth-of-type(2)",
+        "visible": true
+      }
+    ]
+  },
+  "limits": {
+    "scannedActions": 47
+  }
+}
